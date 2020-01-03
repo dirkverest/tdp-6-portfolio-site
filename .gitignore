@@ -1,9 +1,8 @@
 
 # Project Sample Files
-!/example-html
-/example-html/*
-!/mockups
-/mockups/*
+node_modules
+example-html
+mockups
 
 
 # Logs

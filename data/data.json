@@ -1,0 +1,89 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "MioTinto",
+            "description": "Retail & Wholesale shoe webshop",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "wordpress"
+            ],
+            "live_link": "https://miotinto.com",
+            "github_link": "https://github.com/dirkverest",
+            "image_urls": [
+                "/public/img/miotino-550-550.jpg",
+                "/public/img/miotino-550-550.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Mano Macchiato",
+            "description": "Corporate Website Patina Artist",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "wordpress"
+            ],
+            "live_link": "https://manomacchiato.com",
+            "github_link": "https://github.com/dirkverest",
+            "image_urls": [
+                "/public/img/mano-macchiato-550-550.jpg",
+                "/public/img/mano-macchiato-550-550.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Organice Your Life",
+            "description": "Online magazine about Healthy Living",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "wordpress"
+            ],
+            "live_link": "https://organiceyourlife.com",
+            "github_link": "https://github.com/dirkverest",
+            "image_urls": [
+                "/public/img/organice-your-life-550-550.jpg",
+                "/public/img/organice-your-life-550-550.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Green Light Licensing",
+            "description": "Corporate Website",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "wordpress"
+            ],
+            "live_link": "https://greenlightlicense.com",
+            "github_link": "https://github.com/dirkverest",
+            "image_urls": [
+                "/public/img/green-light-life-550-550.jpg",
+                "/public/img/green-light-life-550-550.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Diane Gillman",
+            "description": "Corporate Website",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "wordpress"
+            ],
+            "live_link": "https://dianegilman.com",
+            "github_link": "https://github.com/dirkverest",
+            "image_urls": [
+                "/public/img/diane-gillman-life-550-550.jpg",
+                "/public/img/diane-gillman-life-550-550.jpg"
+            ]
+        }
+    ]
+}
