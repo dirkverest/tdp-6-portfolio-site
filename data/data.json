@@ -3,24 +3,26 @@
         {
             "id": 0,
             "project_name": "MioTinto",
-            "description": "Retail & Wholesale shoe webshop",
+            "description": "Retail & Wholesale shoe webshop (2 images)",
             "technologies": [
                 "html",
                 "css",
                 "javascript",
-                "wordpress"
+                "wordpress",
+                "Woocommerce"
             ],
             "live_link": "https://miotinto.com",
             "github_link": "https://github.com/dirkverest",
             "image_urls": [
-                "/public/img/miotino-550-550.jpg",
-                "/public/img/miotino-550-550.jpg"
+                "/static/images/miotinto-550-550.jpg",
+                "/static/images/miotinto-1200-550-1.jpg",
+                "/static/images/miotinto-1200-550-2.jpg"
             ]
         },
         {
             "id": 1,
             "project_name": "Mano Macchiato",
-            "description": "Corporate Website Patina Artist",
+            "description": "Corporate Website Patina Artist (1 image)",
             "technologies": [
                 "html",
                 "css",
@@ -30,14 +32,14 @@
             "live_link": "https://manomacchiato.com",
             "github_link": "https://github.com/dirkverest",
             "image_urls": [
-                "/public/img/mano-macchiato-550-550.jpg",
-                "/public/img/mano-macchiato-550-550.jpg"
+                "/static/images/mano-macchiato-550-550.jpg",
+                "/static/images/mano-macchiato-1200-550-1.jpg"
             ]
         },
         {
             "id": 2,
             "project_name": "Organice Your Life",
-            "description": "Online magazine about Healthy Living",
+            "description": "Online magazine about Healthy Living (3 images)",
             "technologies": [
                 "html",
                 "css",
@@ -47,25 +49,27 @@
             "live_link": "https://organiceyourlife.com",
             "github_link": "https://github.com/dirkverest",
             "image_urls": [
-                "/public/img/organice-your-life-550-550.jpg",
-                "/public/img/organice-your-life-550-550.jpg"
+                "/static/images/organice-your-life-550-550.jpg",
+                "/static/images/organice-your-life-1200-550-1.jpg",
+                "/static/images/organice-your-life-1200-550-2.jpg",
+                "/static/images/organice-your-life-1200-550-3.jpg"
             ]
         },
         {
             "id": 3,
             "project_name": "Green Light Licensing",
-            "description": "Corporate Website",
+            "description": "Corporate Website (2 images)",
             "technologies": [
                 "html",
                 "css",
-                "javascript",
                 "wordpress"
             ],
             "live_link": "https://greenlightlicense.com",
             "github_link": "https://github.com/dirkverest",
             "image_urls": [
-                "/public/img/green-light-life-550-550.jpg",
-                "/public/img/green-light-life-550-550.jpg"
+                "/static/images/green-light-550-550.jpg",
+                "/static/images/green-light-1200-550-1.jpg",
+                "/static/images/green-light-1200-550-2.jpg"
             ]
         },
         {
@@ -75,14 +79,14 @@
             "technologies": [
                 "html",
                 "css",
-                "javascript",
                 "wordpress"
             ],
             "live_link": "https://dianegilman.com",
-            "github_link": "https://github.com/dirkverest",
+            "github_link": "https://github.com/dirkverest (2 images)",
             "image_urls": [
-                "/public/img/diane-gillman-life-550-550.jpg",
-                "/public/img/diane-gillman-life-550-550.jpg"
+                "/static/images/diane-gillman-550-550.jpg",
+                "/static/images/diane-gillman-1200-550-1.jpg",
+                "/static/images/diane-gillman-1200-550-2.jpg"
             ]
         }
     ]
